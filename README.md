@@ -132,13 +132,6 @@ Configure file uploads by setting up your UploadThing account and environment va
 3. Set environment variables in Vercel dashboard
 4. Deploy!
 
-### Other Platforms
-The app can be deployed to any platform that supports Next.js:
-- Netlify
-- Railway
-- DigitalOcean App Platform
-- AWS Amplify
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -147,9 +140,6 @@ The app can be deployed to any platform that supports Next.js:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -160,10 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/) - UI components
 - [UploadThing](https://uploadthing.com/) - File uploads
 
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub or reach out to the development team.
-
----
 
 **Happy coding! 🎉**
