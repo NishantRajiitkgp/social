@@ -18,7 +18,7 @@ A modern, full-stack social media application built with Next.js 14, featuring r
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 14, React 18, TypeScript
+- **Frontend**: Next.js 15, React 19, TypeScript
 - **Styling**: Tailwind CSS, CSS Modules
 - **UI Components**: Radix UI, Lucide React Icons
 - **Authentication**: Clerk
